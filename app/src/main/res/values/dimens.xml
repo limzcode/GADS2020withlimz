@@ -1,0 +1,25 @@
+<resources>
+    <dimen name="extra_large_margin">60dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="text_padding">6dp</dimen>
+
+    <dimen name="card_corner_radius">3dp</dimen>
+    <dimen name="text_input_corner_radius">8dp</dimen>
+    <dimen name="button_yes_corner_radius">12dp</dimen>
+    <dimen name="button_corner_radius">36dp</dimen>
+
+    <dimen name="text_size_largest">40sp</dimen>
+    <dimen name="text_size_larger">28sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
+    <dimen name="text_size_medium">17sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+
+    <dimen name="max_dialog_images">220dp</dimen>
+</resources>
